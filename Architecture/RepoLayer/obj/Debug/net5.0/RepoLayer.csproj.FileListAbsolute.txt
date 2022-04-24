@@ -1,0 +1,36 @@
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.deps.json
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\ref\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.pdb
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\ref\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.pdb
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.runtimeconfig.json
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Api Architecture\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.deps.json
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.runtimeconfig.json
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\ref\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\RepoLayer.pdb
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\ref\RepoLayer.dll
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.pdb
+C:\Users\ASUS\Desktop\ASPI.NET CORE Examples\Book API CRUD (Onion)\Architecture\RepoLayer\obj\Debug\net5.0\RepoLayer.genruntimeconfig.cache
